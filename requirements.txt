@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+transformers
+torch
+huggingface-hub
+langchain
+langchain-community
+faiss-cpu
+pypdf
+requests
